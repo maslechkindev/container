@@ -1,0 +1,23 @@
+<?xml version='1.0' standalone='yes'?>
+<container>
+    <item>
+        <key>one_xml</key>
+        <value>11</value>
+    </item>
+    <item>
+        <key>two_xml</key>
+        <value>22</value>
+    </item>
+    <item>
+        <key>three_xml</key>
+        <value>33</value>
+    </item>
+    <item>
+        <key>four_xml</key>
+        <value>44</value>
+    </item>
+    <item>
+        <key>two_array</key>
+        <value>two_array_from_xml</value>
+    </item>
+</container>
